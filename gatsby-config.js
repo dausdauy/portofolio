@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `AHFI`,
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
